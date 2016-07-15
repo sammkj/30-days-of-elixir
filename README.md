@@ -1,5 +1,7 @@
 # 30 Days of Elixir
 
+## Go to sammkj branch to see my 30 Days of Elixir
+
 A walk through the [Elixir](http://elixir-lang.org/) language, one exercise per day for 30 days.
 
 ## Frequently Asked Question:
